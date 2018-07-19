@@ -33,7 +33,7 @@
 
 
 
-var order = 1;
+var order = 2;
 var beginnings = [];
 var ngrams = {};
 
