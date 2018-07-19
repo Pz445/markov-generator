@@ -1,38 +1,3 @@
-// var txt = ""
-// var txtArray = txtNoSpace.split(" ");
-// console.log(txtArray);
-// var names = [
-//   "Patrick",
-//   "Michelle",
-//   "Chuck",
-//   "Mary",
-//   "Zenaida",
-//   "Morris",
-//   "Nina",
-//   "Adam",
-//   "Lydia",
-//   "Galing",
-//   "Belinda",
-//   "Mida",
-//   "Bill",
-//   "Jean",
-//   "Wayne",
-//   "Jerry",
-//   "Robin",
-//   "Julio",
-//   "Judie",
-//   "Stanley",
-//   "Tess",
-//   "Ross",
-//   "Clifford",
-//   "Pito",
-//   "Marisol",
-//   "Christine",
-//   "Roger"
-// ];
-
-
-
 var order = 2;
 var beginnings = [];
 var ngrams = {};
