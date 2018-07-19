@@ -1,2 +1,3 @@
 theme: jekyll-theme-slate
-baseurl: https://pz445.github.io/markov-generator/
+baseurl: ""
+url: "https://pz445.github.io/markov-generator/"
